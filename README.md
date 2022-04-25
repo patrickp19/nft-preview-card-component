@@ -50,7 +50,7 @@ Create a NFT card component
 
 ## Author
 
-- Github - [Patrick P]https://github.com/patrickp19)
+- Github - [Patrick P](https://github.com/patrickp19)
 - Frontend Mentor - [@patrickp19](https://www.frontendmentor.io/profile/patrickp19)
 
 
