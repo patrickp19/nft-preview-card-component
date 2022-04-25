@@ -89,6 +89,7 @@ body {
 
 /* layout */
 .container {
+  margin: 1rem;
   background-color: var(--clr-neutral-500);
   color: var(--clr-neutral-100);
   max-width: 325px;
