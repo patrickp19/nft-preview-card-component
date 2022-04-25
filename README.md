@@ -45,6 +45,7 @@ Create a NFT card component
 
 - Learned how to use z-index and create stacking contexts
 - How to use hover and select the sibling or child of the hovered element
+- Flex-shrink acts differently on firefox and chrome. Firefox requires a flex-shrink of 0 or a width of fit-content
 
 
 ## Author
